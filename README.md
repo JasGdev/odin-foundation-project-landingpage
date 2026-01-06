@@ -16,6 +16,17 @@ Footer
 
 ## Credits
 
-Chocolate image by **Polina Tankilevitch**  
-Source: Pexels  
-https://www.pexels.com/@polina-tankilevitch/
+Chocolate Hero image by **Polina Tankilevitch**  
+Source: https://www.pexels.com/@polina-tankilevitch/
+
+info image 1 by **D. Stoyanova**  
+Source: https://unsplash.com/@dstoyanova
+
+info image 2 by **Studio Crevettes**  
+Source: https://unsplash.com/@louismornaud
+
+info image 3 by **Dhanya Purohit**  
+Source: https://unsplash.com/@dhanya22
+
+info image 4 by **Scarlett Alt**  
+Source: https://unsplash.com/@scarlettalt
