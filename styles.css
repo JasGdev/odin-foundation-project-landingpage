@@ -7,10 +7,18 @@ body, ul{
     padding: 0px;
 }
 
+/* sets the background color */
+.header, .hero {
+    background-color: #1f2937;
+}
+
+
+/* removes styling on link */
 ul{
     list-style: none;
 }
 
+/* removes styling on link */
 #links{
     text-decoration: none;
     color: #E5E7EB;
@@ -18,15 +26,15 @@ ul{
     font-weight: 100;
 }
 
+/* Styles the Header logo */
 .Logo {
     color: #F9FAF8;
     font-size: 24px;
     font-weight: bolder;
 }
 
-
+/* arranges the logo */
 .header{
-    background-color: #1f2937;
     height: 80px;
     margin: 0px;
     padding: 0px;
@@ -36,7 +44,47 @@ ul{
     padding: 0px 300px;
 }
 
+/* styles the header links */
 .header-links{
     display: flex;
-    gap: 20px;
+    gap: 30px;
 }
+
+.hero{
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+    gap: 25px;
+}
+
+#chocolate-img{
+    height: 500px;
+}
+
+#hero-main{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+    
+}
+
+#hero-secondary{
+    font-size: 18px;
+    color: #E5E7EB;
+    margin: 10px 0px;
+}
+
+#hero-button{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 10px 30px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 0;
+    
+}
+
+.left-hero{
+    width: 600px;
+}
+

@@ -10,7 +10,12 @@ Section 1 (with title/description/sign up button and a placeholder image)
 Section 2 (some random information with 4 image/subtext)
 
 Section 3 (A quote/testimonial section)
-
-Section 4 (A call to action with sign up button)
+  with sign up button)
 
 Footer
+
+## Credits
+
+Chocolate image by **Polina Tankilevitch**  
+Source: Pexels  
+https://www.pexels.com/@polina-tankilevitch/
