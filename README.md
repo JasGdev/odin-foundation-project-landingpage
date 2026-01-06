@@ -10,7 +10,8 @@ Section 1 (with title/description/sign up button and a placeholder image)
 Section 2 (some random information with 4 image/subtext)
 
 Section 3 (A quote/testimonial section)
-  with sign up button)
+
+Section 4 (Call to action)
 
 Footer
 
