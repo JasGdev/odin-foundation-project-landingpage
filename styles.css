@@ -113,3 +113,26 @@ ul{
     padding-bottom: 20px;
 }
 
+.quote{
+    background-color: #E5E7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+}
+
+.content{width: 800px;}
+
+.quote-text{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.quote-source{
+    text-align: right;
+    margin-right: 50px;
+    font-weight: bold;
+}
+
